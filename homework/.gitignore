@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+*.class
+*.jar
+*.war
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Build files
+/dist/
+/build/
+
+# Package lock files
+yarn.lock
+package-lock.json
+
+# Dependency directories (other languages)
+bower_components/
+vendor/
+
+# Environment files
+.env
+
+# Coverage reports
+coverage/
+
+# Test output
+npm-debug.log
+yarn-error.log
+
+# OS specific
+Thumbs.db
+ehthumbs.db
